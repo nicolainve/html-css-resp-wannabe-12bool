@@ -7,12 +7,32 @@ body {
   text-align: center;
 }
 
-h1,
-h2,
-h3 {
+h1 {
   text-align: center;
+  margin: 30px;
 }
+
+h3 {
+  margin: 10px;
+}
+
+p,
+hr,
+img {
+  margin: 10px 50px;
+}
+
 
 img {
   height: 100px;
+}
+
+.background-grey {
+  background-color: #f9f9f9;
+}
+
+.why img {
+  background-color: #428bca;
+  border-radius: 50%;
+  padding: 15px;
 }
