@@ -328,4 +328,9 @@
   .offset-lg-1 {
     margin-left: calc((100% / 12) * 1);
   }
+  
+  .offset-lg-0 {
+    margin-left: 0;
+  }
+
 }
